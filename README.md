@@ -1,1 +1,2 @@
-# C-21-OWN-LIBRARY-
+# collisionAlgorithm
+Algorithm to detect collision between two objects
